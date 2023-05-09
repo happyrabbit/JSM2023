@@ -1,0 +1,45 @@
+# Site settings
+title: Data Science Workshop
+subtitle: Data Science in Practice
+description: |
+    Many aspects of day-to-day data science work are almost absent from the 
+    conventional statistics literature and curriculum. Yet these activities 
+    account for a considerable share of the time and effort of data professionals 
+    in the industry. This short course focuses on the practical side of data science and statistical analysis. </br>
+    </br>
+    This course aims to increase the visibility of industrial data science-related 
+    career, data workflows, data environment, project cycle, and most common techniques. It is designed for audiences 
+    with a statistics education background, and it bridges the gap between 
+    traditional statisticians and data professionals in the industry. 
+    No software download or installation is needed, and the hands-on 
+    part is done through the internet browser with hands-on sessions 
+    in Databrick's cloud environment or Colab.  
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "course2022.scientistcafe.com" # the base hostname & protocol for your site
+syllabus: "https://course2022.scientistcafe.com/course-syllabus/"
+githubdir: "happyrabbit/course2022"
+
+
+# Author/user information
+email: longqiman@gmail.com; mli@alumni.iastate.edu
+twitter_username: gossip_rabbit
+github_username:  happyrabbit
+authorurl: "https://scientistcafe.com/"
+# address: |
+#    San Francisco, California
+
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
