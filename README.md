@@ -2,9 +2,9 @@
 
 ## Abstract
 
-Data science has evolved a lot in the past ten years, where computer science and statistics converge. As statisticians, we are trained to understand the data using statistical/mathematical models. However, data scientists could spend upwards of 80% of the effort on pulling, organizing, and cleaning data which requires a basic understanding of databases. Additionally, machine learning positions are focusing more and more on software engineering and less on math and theory.  Many data science interviews include algorithms, data structures, and databases that are not covered in the typical statistics curriculum.  
+Data science has evolved significantly in the past decade, with the convergence of computer science and statistics. As statisticians, we are trained to understand data using statistical and mathematical models. However, data scientists can spend up to 80% of their time pulling, organizing, and cleaning data, which requires a basic understanding of databases. Furthermore, machine learning positions are increasingly focused on software engineering rather than math and theory. Many data science interviews include questions about algorithms, data structures, and databases, which are not typically covered in a statistics curriculum.
 
-We will discuss how data science has changed in the past ten years, how working in the industry differs from academia, and explain the data science interview process. The course will also cover the engineering aspects. Participants will learn the programming fundamentals required for a career in data science which are often seen in data science/machine learning interviews. The course will be in SQL and Python.
+This course will cover how data science has evolved in the past decade, how working in the industry differs from academia, and the data science interview process. Additionally, the course will cover engineering aspects and teach the programming fundamentals necessary for a career in data science, which are often tested in data science and machine learning interviews. The course will use SQL and Python.
 
 ## Outline
 
