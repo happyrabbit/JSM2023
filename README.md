@@ -1,4 +1,4 @@
-# JSM2023
+# JSM2023: Programming for Data Science
 
 ## Abstract
 
