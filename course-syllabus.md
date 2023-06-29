@@ -6,15 +6,12 @@ permalink: /course-syllabus/
 
 | Topic | Duration | Materials |
 | :---: | :---: | :---: |
-| Introduction: data science in practice | 60 mins | [Slides]() |
-| Break | 10 mins |  |
-| Database and data modeling  | 60 mins | [Slides]()   |
-| Break | 10 mins |  |
-| Data structures / Algorithms| 60 mins | [Slides]() |
+| Introduction: data science in practice | 8:00 - 9:00 | [Slides]() |
+| Data structures / Algorithms| 9:00 - 10:15 | [Slides]() |
+| Break | 10:15 - 10:30  |  |
+| Database and data modeling  | 10:30 - 11:30 | [Slides]()   |
+| SQL | 11:30 - 12:30 | [Slides]() |
 |  |  |  |
-| Hands-on tech setup | 30 mins |[Slides]() |
-| Algorithms hands-on | 90 mins | [Databricks Community Edition](https://databricks.com/try-databricks) |
-| Break | 30 mins | |
-| SQL in a nutshell  | 60 mins | [Slides]() |
-| Break | 10 mins |  |
-| SQL hands-on | 60 mins | |
+| SQL hands-on | 14:00 - 15:15 | [Databricks Community Edition](https://databricks.com/try-databricks) |
+| Break | 15:15 - 15:30 | |
+| Algorithms hands-on | 15:30 - 17:30 |  |
