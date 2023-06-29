@@ -4,7 +4,7 @@ title: Course Syllabus
 permalink: /course-syllabus/
 ---
 
-| Topic | Duration | Materials |
+| Topic | Time | Materials |
 | :---: | :---: | :---: |
 | Introduction: data science in practice | 8:00 - 9:00 | [Slides]() |
 | Data structures / Algorithms| 9:00 - 10:15 | [Slides]() |
@@ -14,4 +14,4 @@ permalink: /course-syllabus/
 |  |  |  |
 | SQL hands-on | 14:00 - 15:15 | [Databricks Community Edition](https://databricks.com/try-databricks) |
 | Break | 15:15 - 15:30 | |
-| Algorithms hands-on | 15:30 - 17:30 |  |
+| Algorithms hands-on | 15:30 - 17:00 |  |
