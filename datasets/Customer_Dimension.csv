@@ -1,0 +1,11 @@
+PK_Customer_ID,FK_Shipping_Loc_ID,FK_Billing_Loc_ID,First_Name,Last_Name,Email,Phone_Number
+987531,L3651,"L3651, L3652",Sam,Carson,sam@myemail.com,(903) 786-3266
+987532,L3653,L3653,Alice,Chen,alice@myemail.com,(317) 838-3066
+987533,L3983,L3983,Jessie,Moody,Jessie@myemail.com,(360) 877-0330
+987534,L3991,L3991,Harry,Gibbs,Harry@myemail.com,(301) 866-1940
+987535,L3999,L3999,Matthew,Hubbard,Matthew@myemail.com,(903) 935-2460
+987536,L4007,L4007,Trace,Berry,Trace@myemail.com,(847) 838-4315
+987537,L4015,L4015,Areli,Warner,Areli@myemail.com,(406) 846-2103
+987538,L4023,L4023,Abby,Hampton,Abby@myemail.com,(301) 259-4430
+987539,L4031,L4031,William,Giles,William@myemail.com,(509) 925-2504
+987540,L4039,L4039,Kenneth,Long,Kenneth@myemail.com,(530) 878-8811

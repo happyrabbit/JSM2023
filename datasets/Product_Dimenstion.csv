@@ -1,0 +1,20 @@
+PK_Product_ID,Name,Size,Auto_Ship,Unit_Price
+BDING-178LA,Soft Paper Bedding ,178 L (52 L Compressed),FALSE,$45.99
+BDING-178LB,Soft Paper Bedding ,178 L (52 L Compressed),TRUE,$43.69
+ASPN-41A,Aspen Shavings Bedding ,41 L,FALSE,$17.99
+ASPN-41B,Aspen Shavings Bedding ,41 L,TRUE,$17.09
+ASPN-141A,Aspen Shavings Bedding ,141 L,FALSE,$34.99
+ASPN-141B,Aspen Shavings Bedding ,141 L,TRUE,$33.24
+ORCH-005A,Orchard Hay,5 lb,FALSE,$29.99
+ORCH-005B,Orchard Hay,5 lb,TRUE,$26.99
+ORCH-020A,Orchard Hay,20 lb,FALSE,$52.99
+ORCH-020B,Orchard Hay,20 lb,TRUE,$47.69
+TIM1-020A,1st Cutting Timothy Hay,20 lb,FALSE,$52.99
+TIM1-020B,1st Cutting Timothy Hay,20 lb,TRUE,$47.69
+Tim1st2A,1st Cutting Timothy Hay,2 lb,FALSE,$16.99
+Tim1st2B,1st Cutting Timothy Hay,2 lb,TRUE,$15.29
+NR8,Nutri-Rescue (fast nutrition to keep GI tract moving),8 oz,FALSE,$17.99
+Tim2nd25A,2nd Cutting Timothy Hay,25 lb,FALSE,$54.99
+Tim2nd25B,2nd Cutting Timothy Hay,25 lb,TRUE,$49.49
+berryloops,Berry Loops,80 g,FALSE,$5.99
+SEA-SPS-2,Sea Grass Mats,large,FALSE,$6.99
