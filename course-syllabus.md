@@ -15,4 +15,3 @@ permalink: /course-syllabus/
 | Data structures / Algorithms | 14:00 - 15:15 |  |
 | Break | 15:15 - 15:30 | |
 | Algorithms hands-on | 15:30 - 17:00 |  |
-

@@ -1,4 +1,4 @@
-PK_Product_ID,Name,Size,Auto_Ship,Unit_Price
+Product_ID,Name,Size,Auto_Ship,Unit_Price
 BDING-178LA,Soft Paper Bedding ,178 L (52 L Compressed),FALSE,$45.99
 BDING-178LB,Soft Paper Bedding ,178 L (52 L Compressed),TRUE,$43.69
 ASPN-41A,Aspen Shavings Bedding ,41 L,FALSE,$17.99
