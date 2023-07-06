@@ -1,4 +1,4 @@
-Order_Number,Subtotal,Created_At,Shipping_Fee,Tax,Total,Status,Shipped_At,Delivered_At
+order_number,subtotal,created_at,shipping_fee,tax,total,status,shipped_at,delivered_at
 933547,47.69,2023-06-29,0,3.48,51.17,confirmed,2023-06-30,
 927040,63.98,2023-06-28,0,4.67,68.65,confirmed,2023-06-29,
 911705,47.69,2023-06-27,0,3.48,51.17,confirmed,2023-06-28,

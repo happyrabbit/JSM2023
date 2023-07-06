@@ -1,15 +1,15 @@
-Customer_ID,Shipping_Loc_ID,Billing_Loc_ID,First_Name,Last_Name,Email,Phone_Number,Signup_At
+customer_id,shipping_loc_id,billing_loc_id,first_name,last_name,email,phone_number,signup_at
 987531,L3651,"L3651, L3652",Sam,Carson,sam@myemail.com,(903) 786-3266,2023-06-25
 987532,L3653,L3653,Alice,Chen,alice@myemail.com,(317) 838-3066,2023-06-12
-987533,L3983,L3983,Jessie,Moody,Jessie@myemail.com,(360) 877-0330,2023-06-11
-987534,L3991,L3991,Harry,Gibbs,Harry@myemail.com,(301) 866-1940,2023-06-15
-987535,L3999,L3999,Matthew,Hubbard,Matthew@myemail.com,(903) 935-2460,2023-06-11
-987536,L4007,L4007,Trace,Berry,Trace@myemail.com,(847) 838-4315,2023-06-15
-987537,L4015,L4015,Areli,Warner,Areli@myemail.com,(406) 846-2103,2023-06-01
-987538,L4023,L4023,Abby,Hampton,Abby@myemail.com,(301) 259-4430,2023-06-15
-987539,L4031,L4031,William,Giles,William@myemail.com,(509) 925-2504,2023-06-06
-987540,L4039,L4039,Kenneth,Long,Kenneth@myemail.com,(530) 878-8811,2023-06-24
-987541,L4047,L4047,Junyi,Fox,Junyi@myemail.com,(230) 878-8812,2023-05-24
-987542,L4055,L4055,Freddie,Norman,Freddie@myemail.com,(530) 878-8813,2023-05-31
-987543,L4090,L4090,Etta,Bruce,Etta@myemail.com,(903) 986-6767,2023-05-24
-987544,L5090,L5090,Freddie,Norman,Freddie@myemail.com,(317) 838-2642,2023-06-09
+987533,L3983,L3983,Jessie,Moody,jessie@myemail.com,(360) 877-0330,2023-06-11
+987534,L3991,L3991,Harry,Gibbs,harry@myemail.com,(301) 866-1940,2023-06-15
+987535,L3999,L3999,Matthew,Hubbard,matthew@myemail.com,(903) 935-2460,2023-06-11
+987536,L4007,L4007,Trace,Berry,trace@myemail.com,(847) 838-4315,2023-06-15
+987537,L4015,L4015,Areli,Warner,areli@myemail.com,(406) 846-2103,2023-06-01
+987538,L4023,L4023,Abby,Hampton,abby@myemail.com,(301) 259-4430,2023-06-15
+987539,L4031,L4031,William,Giles,william@myemail.com,(509) 925-2504,2023-06-06
+987540,L4039,L4039,Kenneth,Long,kenneth@myemail.com,(530) 878-8811,2023-06-24
+987541,L4047,L4047,Junyi,Fox,junyi@myemail.com,(230) 878-8812,2023-05-24
+987542,L4055,L4055,Freddie,Norman,freddie@myemail.com,(530) 878-8813,2023-05-31
+987543,L4090,L4090,Etta,Bruce,etta@myemail.com,(903) 986-6767,2023-05-24
+987544,L5090,L5090,Freddie,Norman,freddie@myemail.com,(317) 838-2642,2023-06-09

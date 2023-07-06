@@ -1,4 +1,4 @@
-Date,Year,Month,Day_of_Week,Day_of_Month,Day_of_Year,Week_of_Year
+date,year,month,day_of_week,day_of_month,day_of_year,week_of_year
 2023-06-30,2023,June,Friday,30,181,26
 2023-06-29,2023,June,Thursday,29,180,26
 2023-06-28,2023,June,Wednesday,28,179,26
