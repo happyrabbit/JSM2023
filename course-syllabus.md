@@ -6,12 +6,12 @@ permalink: /course-syllabus/
 
 | Topic | Time | Materials |
 | :---: | :---: | :---: |
-| Introduction: data science in practice | 8:00 - 9:00 | [Slides]() |
-| Database and data modeling | 9:00 - 10:15 | [Slides](), [Databricks Community Edition](https://databricks.com/try-databricks) |
+| Introduction: data science in practice | 8:00 - 9:00 | [Slides](https://docs.google.com/presentation/d/1B9fZc1rSl6vSwgyniQPvZDfw9aeaVbFTVonSXHHzbgg/edit#slide=id.g2577fea9a73_0_85) |
+| Database and data modeling | 9:00 - 10:15 | [Slides](https://docs.google.com/presentation/d/1B9fZc1rSl6vSwgyniQPvZDfw9aeaVbFTVonSXHHzbgg/edit#slide=id.g257156a9290_0_6), [Databricks Community Edition](https://databricks.com/try-databricks) |
 | Break | 10:15 - 10:30  |  |
-| SQL  | 10:30 - 11:30 | [Slides]()   |
-| SQL hands-on | 11:30 - 12:30 | [Slides]() |
+| SQL  | 10:30 - 11:30 | [Slides](https://docs.google.com/presentation/d/1B9fZc1rSl6vSwgyniQPvZDfw9aeaVbFTVonSXHHzbgg/edit#slide=id.g257156a9290_0_116)   |
+| SQL hands-on | 11:30 - 12:30 | [01-setup](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7746101029017440/3079573218455393/3979968257677676/latest.html), [02-basic](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7746101029017440/3674544125551616/3979968257677676/latest.html), [03-advance](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7746101029017440/1299000409499385/3979968257677676/latest.html) |
 |  |  |  |
-| Data structures / Algorithms | 14:00 - 15:15 |  |
+| Data structures / Algorithms | 14:00 - 15:15 | [Slides](https://docs.google.com/presentation/d/1B9fZc1rSl6vSwgyniQPvZDfw9aeaVbFTVonSXHHzbgg/edit#slide=id.g2512cb0830a_4_162) |
 | Break | 15:15 - 15:30 | |
-| Algorithms hands-on | 15:30 - 17:00 |  |
+| Algorithms hands-on | 15:30 - 17:00 | [LeetCode](https://leetcode.com/) |
