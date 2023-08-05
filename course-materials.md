@@ -10,11 +10,11 @@ permalink: /course-materials/
 
 **Books**
 
-- Practitioner's Guide to Data Science
+- **Practitioner's Guide to Data Science**
     - You can access the free [online version here](http://scientistcafe.com/IDS/). Alternatively, you can purchase physical copies from [Amazon](https://www.amazon.com/Practitioners-Guide-Data-Science-Chapman/dp/0815354398/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) or [Routledge](https://www.routledge.com/Practitioners-Guide-to-Data-Science/Lin-Li/p/book/9780815354390).
-- Daily Coding Problem: Get exceptionally good at coding interviews by solving one problem every day
+- **Daily Coding Problem**: Get exceptionally good at coding interviews by solving one problem every day
     - by Lawrence Wu and Alex Miller
-- Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People
+- **Grokking Algorithms**: An Illustrated Guide for Programmers and Other Curious People
     - by Aditya Bhargava 
 
 **Websites**
