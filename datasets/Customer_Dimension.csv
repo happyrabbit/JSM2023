@@ -13,3 +13,5 @@ customer_id,shipping_loc_id,billing_loc_id,first_name,last_name,email,phone_numb
 987542,L4055,L4055,Freddie,Norman,freddie@myemail.com,(530) 878-8813,2023-05-31
 987543,L4090,L4090,Etta,Bruce,etta@myemail.com,(903) 986-6767,2023-05-24
 987544,L5090,L5090,Freddie,Norman,freddie@myemail.com,(317) 838-2642,2023-06-09
+987565,L5047,L5047,Fikri,Leon,fikri@myemail.com,(317) 838-2643,2023-06-10
+987566,L5055,L5055,Cytherea,Aarón,cytherea@myemail.com,(317) 838-2644,2023-06-11
